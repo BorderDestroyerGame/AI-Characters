@@ -1,0 +1,13 @@
+openai==0.27.8
+tiktoken==0.3.3
+elevenlabs==0.2.21
+keyboard==0.13.5
+twitchio==2.8.2
+pyaudio==0.2.13
+torch==2.0.1
+openai-whisper==20230918
+pydub==0.25.1
+SpeechRecognition==3.10.0
+better_profanity==0.7.0
+number-parser==0.3.2
+numpy==1.24.4
